@@ -9,4 +9,7 @@ import Foundation
 
 print("Hello, World!")
 
-print("binary gap: ", solutionLesson1BinaryGap(1041))
+//print("binary gap: ", solutionLesson1BinaryGap(1041))
+
+var A = [3, 8, 9, 7, 6]
+print(solutionLesson2CyclicRotation(&A, 3))

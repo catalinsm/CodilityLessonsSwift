@@ -28,5 +28,10 @@ print("Hello, World!")
 //var A = [1,3,1,4,2,3,5,4]
 //print(solutionLesson4FrogRiverOne(5, &A))
 
-var A = [3,4,4,6,1,4,4]
-print(solutionLesson4MaxCounters(5, &A))
+//var A = [3,4,4,6,1,4,4]
+//print(solutionLesson4MaxCounters(5, &A))
+
+//var A = [1, 2, 3]
+//var A = [-1, -3]
+//var A = [1, 3, 6, 4, 1, 2]
+//print(solutionLesson4MissingInteger(&A))

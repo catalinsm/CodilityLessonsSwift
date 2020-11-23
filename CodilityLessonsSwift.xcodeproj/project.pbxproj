@@ -15,6 +15,7 @@
 		A918B175256C1AFC00973901 /* Lesson3 - TapeEquilibrium.swift in Sources */ = {isa = PBXBuildFile; fileRef = A918B174256C1AFC00973901 /* Lesson3 - TapeEquilibrium.swift */; };
 		A918B17A256C216000973901 /* Lesson4 - FrogRiverOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = A918B179256C215F00973901 /* Lesson4 - FrogRiverOne.swift */; };
 		A918B17E256C249F00973901 /* Lesson4 - MaxCounters.swift in Sources */ = {isa = PBXBuildFile; fileRef = A918B17D256C249F00973901 /* Lesson4 - MaxCounters.swift */; };
+		A918B182256C2F8800973901 /* Lesson4 - MissingInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = A918B181256C2F8800973901 /* Lesson4 - MissingInteger.swift */; };
 		A9E5FB16256C0D9C00FCF76F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E5FB15256C0D9C00FCF76F /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -39,6 +40,7 @@
 		A918B174256C1AFC00973901 /* Lesson3 - TapeEquilibrium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lesson3 - TapeEquilibrium.swift"; sourceTree = "<group>"; };
 		A918B179256C215F00973901 /* Lesson4 - FrogRiverOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lesson4 - FrogRiverOne.swift"; sourceTree = "<group>"; };
 		A918B17D256C249F00973901 /* Lesson4 - MaxCounters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lesson4 - MaxCounters.swift"; sourceTree = "<group>"; };
+		A918B181256C2F8800973901 /* Lesson4 - MissingInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lesson4 - MissingInteger.swift"; sourceTree = "<group>"; };
 		A9E5FB12256C0D9C00FCF76F /* CodilityLessonsSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodilityLessonsSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9E5FB15256C0D9C00FCF76F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -81,6 +83,7 @@
 				A918B174256C1AFC00973901 /* Lesson3 - TapeEquilibrium.swift */,
 				A918B179256C215F00973901 /* Lesson4 - FrogRiverOne.swift */,
 				A918B17D256C249F00973901 /* Lesson4 - MaxCounters.swift */,
+				A918B181256C2F8800973901 /* Lesson4 - MissingInteger.swift */,
 				A9E5FB15256C0D9C00FCF76F /* main.swift */,
 			);
 			path = CodilityLessonsSwift;
@@ -151,6 +154,7 @@
 				A918B17A256C216000973901 /* Lesson4 - FrogRiverOne.swift in Sources */,
 				A918B165256C176300973901 /* Lesson2 - CyclicRotation.swift in Sources */,
 				A918B175256C1AFC00973901 /* Lesson3 - TapeEquilibrium.swift in Sources */,
+				A918B182256C2F8800973901 /* Lesson4 - MissingInteger.swift in Sources */,
 				A918B16D256C187200973901 /* Lesson3 - FrogJmp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

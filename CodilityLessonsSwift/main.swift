@@ -22,5 +22,8 @@ print("Hello, World!")
 //var A = [2,3,1,5]
 //print(solutionLesson3PermMissingElem(&A))
 
-var A = [3,1,2,4,3]
-print(solutionLesson3TapeEquilibrium(&A))
+//var A = [3,1,2,4,3]
+//print(solutionLesson3TapeEquilibrium(&A))
+
+var A = [1,3,1,4,2,3,5,4]
+print(solutionLesson4FrogRiverOne(5, &A))

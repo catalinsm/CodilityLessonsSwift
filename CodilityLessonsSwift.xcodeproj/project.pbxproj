@@ -11,6 +11,7 @@
 		A918B165256C176300973901 /* Lesson2 - CyclicRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = A918B164256C176300973901 /* Lesson2 - CyclicRotation.swift */; };
 		A918B169256C17F400973901 /* Lesson2 - OddOccurrencesInArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = A918B168256C17F400973901 /* Lesson2 - OddOccurrencesInArray.swift */; };
 		A918B16D256C187200973901 /* Lesson3 - FrogJmp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A918B16C256C187200973901 /* Lesson3 - FrogJmp.swift */; };
+		A918B171256C18EA00973901 /* Lesson4 - PermMissingElem.swift in Sources */ = {isa = PBXBuildFile; fileRef = A918B170256C18EA00973901 /* Lesson4 - PermMissingElem.swift */; };
 		A9E5FB16256C0D9C00FCF76F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E5FB15256C0D9C00FCF76F /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 		A918B164256C176300973901 /* Lesson2 - CyclicRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lesson2 - CyclicRotation.swift"; sourceTree = "<group>"; };
 		A918B168256C17F400973901 /* Lesson2 - OddOccurrencesInArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lesson2 - OddOccurrencesInArray.swift"; sourceTree = "<group>"; };
 		A918B16C256C187200973901 /* Lesson3 - FrogJmp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lesson3 - FrogJmp.swift"; sourceTree = "<group>"; };
+		A918B170256C18EA00973901 /* Lesson4 - PermMissingElem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lesson4 - PermMissingElem.swift"; sourceTree = "<group>"; };
 		A9E5FB12256C0D9C00FCF76F /* CodilityLessonsSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodilityLessonsSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9E5FB15256C0D9C00FCF76F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -69,6 +71,7 @@
 				A918B164256C176300973901 /* Lesson2 - CyclicRotation.swift */,
 				A918B168256C17F400973901 /* Lesson2 - OddOccurrencesInArray.swift */,
 				A918B16C256C187200973901 /* Lesson3 - FrogJmp.swift */,
+				A918B170256C18EA00973901 /* Lesson4 - PermMissingElem.swift */,
 				A9E5FB15256C0D9C00FCF76F /* main.swift */,
 			);
 			path = CodilityLessonsSwift;
@@ -131,6 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A918B171256C18EA00973901 /* Lesson4 - PermMissingElem.swift in Sources */,
 				A918B169256C17F400973901 /* Lesson2 - OddOccurrencesInArray.swift in Sources */,
 				A9E5FB16256C0D9C00FCF76F /* main.swift in Sources */,
 				A918B161256C16BC00973901 /* Lesson1 - BinaryGap.swift in Sources */,

@@ -17,4 +17,7 @@ print("Hello, World!")
 //var A = [9, 3, 9, 3, 9, 7, 9]
 //print(solutionLesson2OddOccurrencesInArray(&A))
 
-print(solutionLesson3FrogJmp(10, 85, 30))
+//print(solutionLesson3FrogJmp(10, 85, 30))
+
+var A = [2,3,1,5]
+print(solutionLesson3PermMissingElem(&A))

@@ -16,6 +16,7 @@
 		A918B17A256C216000973901 /* Lesson4 - FrogRiverOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = A918B179256C215F00973901 /* Lesson4 - FrogRiverOne.swift */; };
 		A918B17E256C249F00973901 /* Lesson4 - MaxCounters.swift in Sources */ = {isa = PBXBuildFile; fileRef = A918B17D256C249F00973901 /* Lesson4 - MaxCounters.swift */; };
 		A918B182256C2F8800973901 /* Lesson4 - MissingInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = A918B181256C2F8800973901 /* Lesson4 - MissingInteger.swift */; };
+		A918B186256C305F00973901 /* Lesson4 - PermCheck.swift in Sources */ = {isa = PBXBuildFile; fileRef = A918B185256C305F00973901 /* Lesson4 - PermCheck.swift */; };
 		A9E5FB16256C0D9C00FCF76F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E5FB15256C0D9C00FCF76F /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -41,6 +42,7 @@
 		A918B179256C215F00973901 /* Lesson4 - FrogRiverOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lesson4 - FrogRiverOne.swift"; sourceTree = "<group>"; };
 		A918B17D256C249F00973901 /* Lesson4 - MaxCounters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lesson4 - MaxCounters.swift"; sourceTree = "<group>"; };
 		A918B181256C2F8800973901 /* Lesson4 - MissingInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lesson4 - MissingInteger.swift"; sourceTree = "<group>"; };
+		A918B185256C305F00973901 /* Lesson4 - PermCheck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lesson4 - PermCheck.swift"; sourceTree = "<group>"; };
 		A9E5FB12256C0D9C00FCF76F /* CodilityLessonsSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodilityLessonsSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9E5FB15256C0D9C00FCF76F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -84,6 +86,7 @@
 				A918B179256C215F00973901 /* Lesson4 - FrogRiverOne.swift */,
 				A918B17D256C249F00973901 /* Lesson4 - MaxCounters.swift */,
 				A918B181256C2F8800973901 /* Lesson4 - MissingInteger.swift */,
+				A918B185256C305F00973901 /* Lesson4 - PermCheck.swift */,
 				A9E5FB15256C0D9C00FCF76F /* main.swift */,
 			);
 			path = CodilityLessonsSwift;
@@ -149,6 +152,7 @@
 				A918B171256C18EA00973901 /* Lesson3 - PermMissingElem.swift in Sources */,
 				A918B169256C17F400973901 /* Lesson2 - OddOccurrencesInArray.swift in Sources */,
 				A918B17E256C249F00973901 /* Lesson4 - MaxCounters.swift in Sources */,
+				A918B186256C305F00973901 /* Lesson4 - PermCheck.swift in Sources */,
 				A9E5FB16256C0D9C00FCF76F /* main.swift in Sources */,
 				A918B161256C16BC00973901 /* Lesson1 - BinaryGap.swift in Sources */,
 				A918B17A256C216000973901 /* Lesson4 - FrogRiverOne.swift in Sources */,

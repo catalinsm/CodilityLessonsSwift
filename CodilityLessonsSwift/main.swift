@@ -35,3 +35,7 @@ print("Hello, World!")
 //var A = [-1, -3]
 //var A = [1, 3, 6, 4, 1, 2]
 //print(solutionLesson4MissingInteger(&A))
+
+var A = [4,1,3,2]
+//var A = [4,1,3]
+print(solutionLesson4PermCheck(&A))

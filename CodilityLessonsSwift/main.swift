@@ -14,5 +14,7 @@ print("Hello, World!")
 //var A = [3, 8, 9, 7, 6]
 //print(solutionLesson2CyclicRotation(&A, 3))
 
-var A = [9, 3, 9, 3, 9, 7, 9]
-print(solutionLesson2OddOccurrencesInArray(&A))
+//var A = [9, 3, 9, 3, 9, 7, 9]
+//print(solutionLesson2OddOccurrencesInArray(&A))
+
+print(solutionLesson3FrogJmp(10, 85, 30))
